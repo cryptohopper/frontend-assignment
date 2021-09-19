@@ -29,7 +29,7 @@ To get insights in your technical skills and how that matches the tech stack we 
 
 ## Design
 
-You can find the design in this repo calles design.zip. The design is a figma file. You can open it with the Figma desktop app for [Mac](https://www.figma.com/download/desktop/mac) or [Windows](https://www.figma.com/download/desktop/win), or check the [Figma downloads page](https://www.figma.com/downloads).
+You can find the design in this repo called design.zip. The design is a figma file. You can open it with the Figma desktop app for [Mac](https://www.figma.com/download/desktop/mac) or [Windows](https://www.figma.com/download/desktop/win), or check the [Figma downloads page](https://www.figma.com/downloads).
 
 ## Notes
 
