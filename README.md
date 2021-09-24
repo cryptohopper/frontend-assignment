@@ -2,7 +2,7 @@
 
 Congrats! You've made it to the assignment! 🥳
 
-To get insights in your technical skills and how that matches the tech stack we use, we've setup a little assignment. There's a design file zip in the files above (in this git-repo) called design.zip. We'd like you to turn this design into a React app. Before you begin, please make sure you've read the [notes](#notes).
+To get insights in your technical skills and how that matches the tech stack we use, we've setup a little assignment. There's a design that can be found here https://www.figma.com/file/l2FeMMWON9KFTxEanI4Qro/design?node-id=2050%3A891. We'd like you to turn this design into a React app. Before you begin, please make sure you've read the [notes](#notes).
 
 ## How does it work?
 
@@ -29,7 +29,7 @@ To get insights in your technical skills and how that matches the tech stack we 
 
 ## Design
 
-You can find the design in this repo called design.zip. The design is a figma file. You can open it with the Figma desktop app for [Mac](https://www.figma.com/download/desktop/mac) or [Windows](https://www.figma.com/download/desktop/win), or check the [Figma downloads page](https://www.figma.com/downloads).
+You can find the design at https://www.figma.com/file/l2FeMMWON9KFTxEanI4Qro/design?node-id=2050%3A891. The design is a figma file. You can open it directly with the link or with the Figma desktop app for [Mac](https://www.figma.com/download/desktop/mac) or [Windows](https://www.figma.com/download/desktop/win), or check the [Figma downloads page](https://www.figma.com/downloads).
 
 ## Notes
 
